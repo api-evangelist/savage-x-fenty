@@ -10,6 +10,17 @@ description: >-
   with an AWS API Gateway at gateway.savagex.com. Savage X Fenty publishes no public
   developer program, no API reference, and no machine-readable contract; its first-party
   API gateway and its engineering docs site are both closed to the public.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://cdn.builder.io/api/v1/image/assets%2F380497d2350243c7a3f60aeae82dfc2d%2F20c959ce5dc147ddae2db44ec7c2bce2
 url: https://raw.githubusercontent.com/api-evangelist/savage-x-fenty/refs/heads/main/apis.yml
 x-type: company
